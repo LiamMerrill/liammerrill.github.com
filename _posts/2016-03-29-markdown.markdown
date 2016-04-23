@@ -59,6 +59,10 @@ Heading
 
 See? Really easy. 
 
+
+# Heading one my name is liam
+Dear journal, today I had an idea and it was a pretty sweet idea!!!!
+
 ## Font
 
 There are three kinds of font in Markdown.
