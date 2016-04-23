@@ -11,4 +11,4 @@ finished: true
 
 # First Post
 This is my first one. 
-<iframe frameborder="0" style="border: 1px solid black;" width="500" height="400" src="/MonthsTatSTP.html"></iframe>
+<iframe frameborder="0" width="500" height="400" src="/MonthsTatSTP.html"></iframe>
