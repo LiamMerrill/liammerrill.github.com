@@ -8,7 +8,7 @@ category: coding
 tags: Diversity Equity Inclusion NYC Arts
 finished: true
 ---
-
+<img src="BRIC-Open-House_Jenna-Salvagin-560x373.jpg"></img>
 # First Post
 <p>Efforts towards quantifying the diversity in various industries have gained a great deal of attention in the last few years. From the #OscarsSoWhite controversy,[1] to the initiatives towards transparency in Silicon Valley,[2] to the recent benchmark survey in publishing,[3] quantifying diversity has become a central component of highlighting areas in the workforce that are notably homogenous in order to approach diversity initiatives strategically.</p>
 
