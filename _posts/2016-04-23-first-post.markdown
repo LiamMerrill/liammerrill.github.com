@@ -35,7 +35,7 @@ finished: true
 <h2>Theater</h2>
 ![Codes](/img/Theater.png)
 
-<p>Similarly in theater we see that of the positions over 3/4 white, Technical/Production staff are the largest category. Since the DCLA report has come out, the Theater Subdistrict Council has allocated $2 million in grants for organizations who diversify their technical/production staff: <a href="http://www.americantheatre.org/2016/03/17/nyc-announces-new-diversity-grant-program-for-theatres/">NYC Announces New Diversity Grant Progam for Theatres</p>
+<p>Similarly in theater we see that of the positions over 3/4 white, Technical/Production staff are the largest category. Since the DCLA report has come out, the Theater Subdistrict Council has allocated $2 million in grants for organizations who diversify their technical/production staff: <a href="http://www.americantheatre.org/2016/03/17/nyc-announces-new-diversity-grant-program-for-theatres/">NYC Announces New Diversity Grant Progam for Theatres</a></p>
 
 <h2>Dance</h2>
 ![Codes](/img/Dance.png)
