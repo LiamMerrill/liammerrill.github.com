@@ -42,5 +42,6 @@ finished: true
 
 <p>Among dance organizations, positions are much more diverse. There are only two categories over 3/4 white. The above graph expands to show organizations that are more than 50% white. 
 	<br> 
+	
 Working with the city on this project has revealed to me how powerful data driven findings can be in promoting change. After seeing the DCLA report, the Mertz Gilmore foundation commissioned a similar project specifically for dance. I recently heard Oskar Eustis of The Public Theater speak at Macaulay Honors College and share that in light of the DCLA report they have committed to pay their interns and to diversify their board to 50% POC. If these efforts to diversify are successful we can hope to have a staff in the cultural sector that better represents the population it serves, and brings more perspectives to programming in the arts.
 </p>
